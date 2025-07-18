@@ -1,2 +1,2 @@
 # New-Repo
-Just checking to get badges - Trick 
+Just checking to get badges 
